@@ -1,0 +1,3 @@
+package com.example.weathertracking.interfaces
+
+interface IHideTopNavigationLayout

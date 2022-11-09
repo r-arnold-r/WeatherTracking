@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size">12sp</dimen>
+    <dimen name="time_font_size">15sp</dimen>
+    <dimen name="temp_font_size">15sp</dimen>
+    <dimen name="precip_wind_font_size">6sp</dimen>
+</resources>
